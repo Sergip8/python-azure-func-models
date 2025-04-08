@@ -5,7 +5,7 @@
 azure-functions
 spacy
 pymongo
-pillow
+pillow==10.4.0 --only-binary=:all:
 numpy
 transformers
 torch
