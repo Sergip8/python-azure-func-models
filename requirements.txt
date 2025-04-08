@@ -3,7 +3,7 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
-Pillow
+pillow==9.5.0
 spacy
 pymongo
 numpy
