@@ -3,9 +3,9 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+pillow
 spacy
 pymongo
-pillow==10.4.0 --only-binary=:all:
 numpy
 transformers
 torch
